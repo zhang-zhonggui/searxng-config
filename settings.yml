@@ -11,7 +11,7 @@ search:
     - json
 
 server:
-  secret_key: "CHANGE_ME_TO_A_RANDOM_SECRET"
+  secret_key: "8f4c9d2a7e6b1c3d9a5f0e8b2c7d4a61"
   limiter: false
   image_proxy: false
 
